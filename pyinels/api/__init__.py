@@ -35,7 +35,7 @@ class Api:
 
     def __init__(self, host, port, version):
         """Initialize Api class."""
-        self.__host = host
+        self.__host = blabla
         self.__port = port
         self.__version = version
         self.__proxy = None
